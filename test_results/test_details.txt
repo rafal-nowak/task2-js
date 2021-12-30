@@ -1,0 +1,6 @@
+Thu Dec 30 2021 22:57:13 GMT+0100 (Central European Standard Time);test_should_compare_two_identical_strings;true
+Thu Dec 30 2021 22:57:13 GMT+0100 (Central European Standard Time);test_should_compare_two_different_strings;true
+Thu Dec 30 2021 22:57:13 GMT+0100 (Central European Standard Time);test_should_compare_two_empty_strings;true
+Thu Dec 30 2021 22:57:13 GMT+0100 (Central European Standard Time);test_should_compare_two_strings_where_one_is_null;true
+Thu Dec 30 2021 22:57:13 GMT+0100 (Central European Standard Time);test_should_compare_empty_string_and_null_string;true
+Thu Dec 30 2021 22:57:13 GMT+0100 (Central European Standard Time);test_should_compare_two_null_strings;true
