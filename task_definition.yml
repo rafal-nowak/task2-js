@@ -1,12 +1,13 @@
-Files to be delivered to user: 
-  src/task.py
+filesToBeDeliveredToUser:
+  - file: src/task.js
 
-environment: Node.js
+environment:
+  name: Node.js
   version: 16.13.1
 
-Task verification method:
-  npm run test
+taskVerificationMethod: npm run test
 
-Result file:
-  test_results/test_summary.txt
+resultFiles:
+  - file: test_results/test_summary.txt
+  - file: test_results/test_details.txt
 
